@@ -1,0 +1,4 @@
+.navbar-bg {
+    background: rgba(62, 0, 206, 0.8);
+    backdrop-filter: saturate(180%) blur(20px);
+}
